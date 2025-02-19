@@ -1,4 +1,6 @@
 # about the Project 
-first the dowlode the project then instal all dependency <br>
-then go to server folder and run "npm run start" <br>
-then go to app folder and run "npm run dev"
+First, download the project, then install all dependencies. <br>
+
+Go to the server folder and run npm run start.<br>
+
+Go to the app folder and run npm run dev.
